@@ -35,6 +35,6 @@ $ python2 hack.py
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/James404-cyber/Pro.git ; cd Pro ; python2 hack.py
 ```
- TOOL USER : (Contact For Me)</br>
- TOOL PASS : (Contact For Me</br>
+ TOOL USER : (James)</br>
+ TOOL PASS : (404)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
